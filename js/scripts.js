@@ -6,18 +6,20 @@ function changeWords(){
     ['ubuntu'],
     ['正','义'],
     ['正','義'],
-    ['Just','ice'],
-    ['Just','iça']
-    ['Just','icia']
+    ['Jus','tice'],
+    ['Jus','tiça'],
+    ['Jus','ticia'],
+    ['多','元'],
+    ['多','様'],
+    ['Divers','ity'],
+    ['Divers','ified'],
+    ['divers','ifiziert'],
+    ['divers','ifié'],
+
   ];
 
   var moreWords = [
-    ['material', 'ità', 'ity'],
     ['possibil', 'ità', 'idad', 'ity'],
-    ['celebr', 'ity', 'ità'],
-    ['sublim', 'ità', 'idad', 'ity'],
-    ['normal', 'ity', 'ità'],
-    ['conform', 'ity', 'ità'],
     ['visibil', 'ità', 'ity'],
     ['plural', 'ity', 'ità', 'idad'],
     ['individual', 'ity', 'ità'],
@@ -26,13 +28,7 @@ function changeWords(){
     ['infin', 'ità', 'ity', 'idad'],
     ['real','ismo', 'ism'],
     ['modern','ism', 'ismo'],
-    ['postmodern','ismo', 'ism'],
-    ['capital','ism', 'ismo'],
-    ['social','ismo', 'ism'],
-    ['anarch','ismo', 'ism'],
-    ['democra', 'zia', 'cy'],
     ['civiliz', 'ation', 'zazione'],
-    ['na', 'zione', 'tion']
 
   ];
 
